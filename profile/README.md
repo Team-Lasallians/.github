@@ -30,10 +30,10 @@ Stay tuned for updates on our hackathon build! 🔧👨‍💻👩‍💻
 
 | 👤 Name | 💼 Role | ✨ Fun Fact |
 |--------|--------|-------------|
-| 🧑‍💻 **Arron Kian Parejas** | AI and Cloud Lead / Full-Stack Lead | Can code and vibe at the same time 🎧 |
-| 👨‍🔬 **Jian Kalel Marquez** | Data Engineer | Keeps the code running smooth like butter 🧈 |
-| 👓 **Nikko Simeon Parungao** | Document Manager | Turns designs into dazzling reality 🌈 |
-| 💡 **Graciella Mhervie Jimenez** | Ideation & UI/UX | The creative spark behind our vision 🎨 |
+| 🧑‍💻 **Arron Kian Parejas** | AI and Cloud Lead / Full-Stack Lead | The brain behind the build — our strongest tech tactician ⚔️🧠 |
+| 👨‍🔬 **Jian Kalel Marquez** | Data Engineer | The silent powerhouse who engineers data like a blacksmith forging weapons 🔩🔥 |
+| 👓 **Nikko Simeon Parungao** | Junior Backend Developer | Code flows like magic from his fingers – backend’s rising prodigy 🧙‍♂️✨ |
+| 💡 **Graciella Mhervie Jimenez** | Ideation & UI/UX | Designs like an artist, thinks like a strategist — the visionary behind our vibe 🎨🚀 |
 
 We’re coding, creating, and caffeinating together ☕💻
 
