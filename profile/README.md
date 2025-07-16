@@ -3,7 +3,8 @@
 # 💚✨ Team Lasallians ✨💚  
 ### *WPH Hackathon 2025 Entry*
 
-![Hackathon Logo](https://drive.google.com/file/d/1acSGAVWUGusEspbg-dwWQAm1bjKIOTU-/view?usp=sharing)
+![Hackathon Logo](https://drive.google.com/uc?export=view&id=1acSGAVWUGusEspbg-dwWQAm1bjKIOTU-)
+
  <!-- You can replace this with your hackathon logo link -->
 
 ---
