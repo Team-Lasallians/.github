@@ -18,7 +18,7 @@
 ## 🛠️ Project Overview
 
 Welcome to the official repository of **Team Lasallians** for the **WPH Hackathon 2025**!  
-We're a passionate group of developers and dreamers from De La Salle University, joining forces to build a project that will make a real impact. 🌏🚀
+We're a passionate group of developers and dreamers from Holy Angel University, joining forces to build a project that will make a real impact. 🌏🚀
 
 🧩 Our project will tackle one of today's pressing challenges using technology, collaboration, and a touch of Lasallian spirit!
 
